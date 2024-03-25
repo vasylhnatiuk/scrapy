@@ -23,5 +23,4 @@ The Scrapy Yelp Spider is designed to scrape Yelp for business details such as n
    python main.py 'output_file' '<category>' '<location>'
 
    python main.py 'result.json' 'contractors' 'San Francisco, CA'
-
-```
+   ```
